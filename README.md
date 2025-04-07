@@ -41,4 +41,4 @@ Imagens usadas apenas para fins educacionais
 
 
 📸 Prévia
-![Prévia do Projeto](src/imagens/marvel.png)
+![Prévia do Projeto](src/imagens/herois.png)
